@@ -1,5 +1,7 @@
 # DAT-ATX-1_Project
-General Assembly's Data Science Course capstone project: Austin Restaurants Health Inspection
+## Austin Restaurants Health Inspection
+
+General Assembly -  Data Science Course capstone project
 
 #### Preliminaries - Goal of this project
 
