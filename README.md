@@ -3,8 +3,6 @@
 
 General Assembly -  Data Science Course capstone project
 
-##### The iPython notebooks for the project as well as the paper presenting the results will be pushed to github by February 17th, 2016
-
 #### Preliminaries - Goal of this project
 
 The Austin/Travis County Health and Human Services Department conducts the permitting and inspection of more than 4,000 food establishments in Austin, several local municipalities and rural Travis County. Food establishments should be inspected twice a year. If unable to be inspected at this frequency, then inspections are prioritized by risk. The establishments include a wide variety of food industries, such as restaurants, delicatessens, school cafeterias, grocery stores, retail meat markets, bakeries and bars. If no violations are found, a score of 100 is achieved. If more than 30 points are lost, a re-inspection is required and corrections must be made to bring the score above 70, in accordance with the Texas Food Establishment Rules. If subsequent inspections score below 70, compliance actions will be taken.
